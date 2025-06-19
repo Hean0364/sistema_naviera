@@ -1,0 +1,12 @@
+table.table thead th {
+  background-color: #1b2a49;  /* tu color personalizado */
+  color: #ffffff;             /* asegúrate contraste */
+  border-color: #a0baef;      /* opcional: bordes a tono */
+}
+
+table.table{
+  border-color:#a0baef;
+}
+.form-enviar {
+  display: contents;    /* el form no ocupa espacio, solo el botón */
+}
